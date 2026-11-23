@@ -13,7 +13,7 @@ export function whatsappLink({ name = '', phone = '', email = '', seats = '', vi
 
 export const SITE = {
   name: 'Urban Premium Coworks',
-  url: 'https://www.urbanpremiumcoworks.in',
+url: 'https://urban-premium-coworks.vercel.app',
   email: 'urbanpremiumcoworks@gmail.com',
   phoneDisplay: '+91 98866 62272',
   phoneHref: 'tel:+919886662272',
